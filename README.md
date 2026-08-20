@@ -3,9 +3,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving" width="40" height="40" /> 
-  Hi there, I'm Aavani! 
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Sparkles.png" alt="Sparkles" width="40" height="40" />
+  👋 Hi there, I'm Aavani! ✨
 </h1>
 <h3 align="center">Aspiring Full Stack Developer & Exponential Learner 🌱</h3>
 
@@ -54,12 +52,11 @@
 ## 📊 My GitHub Journey 🦋
 
 <div align="center">
-  <!-- Real GitHub Stats -> Using reliable ones without streak that breaks -->
   <a href="https://github.com/aavaniraj">
-    <img src="https://github-readme-stats.vercel.app/api?username=aavaniraj&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Aavani's GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=aavaniraj&show_icons=true&theme=radical" alt="Aavani's GitHub Stats" />
   </a>
   <a href="https://github.com/aavaniraj">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavaniraj&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aavaniraj&layout=compact&theme=radical" alt="Top Languages" />
   </a>
   <br>
   <!-- Animated bottom line to make it more interactive! -->
