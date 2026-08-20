@@ -38,13 +38,6 @@
 
 ## 📊 My GitHub Journey 🦋
 
-<div align="center">
-  <a href="https://github.com/aavaniraj">
-    <img src="https://github-readme-stats.vercel.app/api?username=aavaniraj&show_icons=true&theme=radical&hide_border=true" alt="Aavani's GitHub Stats" />
-  </a>
-  <br/>
-  <br/>
-  <a href="https://github.com/aavaniraj">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=aavaniraj&theme=radical&hide_border=true" alt="Aavani's GitHub Streak" />
-  </a>
-</div>
+<p align="center">
+  <i>Just starting my coding journey! Watch this space for my future projects and contributions as I begin my full-stack classes. 🌱✨</i>
+</p>
